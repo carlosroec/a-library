@@ -1,0 +1,22 @@
+{
+  "name": "a-library",
+  "version": "1.0.0",
+  "description": "Get random JS book names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosroec/a-library.git"
+  },
+  "author": "Carlos G. Rodriguez <carlosro.ec@gmail.com> (http://www.carlosrodriguez.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosroec/a-library/issues"
+  },
+  "homepage": "https://github.com/carlosroec/a-library#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
