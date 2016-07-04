@@ -3,6 +3,6 @@ machine:
     version: "0.12"
 test:
   override:
-    - npm test:single
+    - npm run test:single
   post:
     - npm run semantic-release || true
